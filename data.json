@@ -1,20 +1,38 @@
 [
     {
+        "ticker": "INDF",
+        "name": "Indofood Sukses Makmur Tbk",
+        "price": 6900.0,
+        "pbv": 0.76,
+        "per": 5.68,
+        "dividend_yield": 422.0,
+        "payout_ratio": 23.9,
+        "category": "Deep Value & Re-rating",
+        "buy_zone": 6555.0,
+        "target_sell": 10914.34,
+        "capital_gain_potential": 58.2,
+        "stop_loss": 5865.0,
+        "accumulation_signal": true,
+        "div_history": [],
+        "exit_rule": "Jual bertahap saat harga mendekati Rp 10,914.34 (PBV 1.2x) atau jika fundamental rusak.",
+        "last_updated": "2026-11-11"
+    },
+    {
         "ticker": "ASII",
         "name": "Astra International Tbk",
-        "price": 5350.0,
-        "pbv": 0.89,
-        "per": 7.17,
-        "dividend_yield": 757.0,
+        "price": 5250.0,
+        "pbv": 0.88,
+        "per": 7.04,
+        "dividend_yield": 729.0,
         "payout_ratio": 52.3,
         "category": "Deep Value & Re-rating",
-        "buy_zone": 5082.5,
+        "buy_zone": 4987.5,
         "target_sell": 7199.32,
-        "capital_gain_potential": 34.6,
-        "stop_loss": 4547.5,
+        "capital_gain_potential": 37.1,
+        "stop_loss": 4462.5,
         "accumulation_signal": true,
         "div_history": [],
         "exit_rule": "Jual bertahap saat harga mendekati Rp 7,199.32 (PBV 1.2x) atau jika fundamental rusak.",
-        "last_updated": "2026-11-10"
+        "last_updated": "2026-11-11"
     }
 ]
